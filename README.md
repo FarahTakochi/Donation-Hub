@@ -10,6 +10,7 @@ For the organisation flow, firstly, our homepage will display a short descriptio
 
 
 ## Project Site Map
+![image](https://github.com/user-attachments/assets/713b41d2-576b-495f-9653-0814eed57c65)
 
 
 ## Project Mock-up
@@ -17,11 +18,13 @@ a. Home page:
 
 - Main page for our website.
 - Description on our project and SDGs related.
+![image](https://github.com/user-attachments/assets/deae2afc-402b-4757-8f33-ce32f24e619d)
 
 
 b. News:
 
 Details of Upcoming and Ongoing Events
+![image](https://github.com/user-attachments/assets/33b64426-ff09-485c-8734-9b24299fdc02)
 
 
 c. Catalogue
@@ -29,6 +32,7 @@ c. Catalogue
 - Collection of information for the process of donation.
 - Choosing items to be donated in the catalogue.
 - Submission of form.
+![image](https://github.com/user-attachments/assets/85120d53-75b5-41f4-bfe5-0b37896a68a6)
 
   
 
@@ -38,6 +42,7 @@ d. Registration:
 - Submission of form.
 - A short video montage on volunteering.
 - Details on the volunteering process and perks.
+![image](https://github.com/user-attachments/assets/16841c09-2d99-4576-a00e-effafe14b175)
 
 
 e. FAQ/Contact us:
@@ -45,4 +50,5 @@ e. FAQ/Contact us:
 - Option to ask questions and clear doubts.
 - Providing the information on how to get in touch.
 - Lists of Frequently Asked Questions, FAQ.
+![image](https://github.com/user-attachments/assets/34ba4ba6-5929-41c4-b5e6-af907862ca5e)
 
